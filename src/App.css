@@ -1,0 +1,28 @@
+.inner-container{
+border: 1px solid;
+border-radius: 6px;
+height: 300px;
+width: 30%;
+  background: linear-gradient(to right, rgba(240,147,251,0.5), rgba(245,87,108,0.5))
+}
+.main-container {
+  text-align: center;
+  width: 90%;
+  height: 400px;
+  overflow: scroll;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 6px;
+  background-color:rgb(234, 230, 230);
+}
+
+.input-control{
+  width: 25% !important;
+  margin: auto;
+  display: inline  !important;
+}
+textarea{
+ margin-top: 10px  !important;
+ width: 60%;
+}
+.main-container input{ width: 60%;}
